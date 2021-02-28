@@ -20,7 +20,8 @@ Edges:
 ![image](https://user-images.githubusercontent.com/14913070/109432261-6176bb00-79d8-11eb-88b1-b0f4742b2209.png)
 
 
-**#Exercise 2: **
+**#Exercise 2**
+
 The biggest square (deleting row/columns Separators)
 
 Ex.:
